@@ -1,0 +1,23 @@
+.main-container{
+    text-align: center;
+    border:1px solid blue;
+    margin:5px;
+    padding:10px;
+    color:white;
+    /* width:50%; */
+    border-radius:10px;
+    background-image: linear-gradient(90deg, rgb(49, 49, 83),rgb(115, 147, 160));
+
+    /* margin: auto; */
+}
+.singup-container{
+    text-align:center;
+    border:1px solid blue;
+    margin:5px;
+    padding:10px;
+    color:white;
+    /* width:50%; */
+    border-radius:10px;
+    box-shadow: 5px 5px 5px;
+    background-image: linear-gradient(90deg, rgb(49, 49, 83),rgb(115, 147, 160));
+}

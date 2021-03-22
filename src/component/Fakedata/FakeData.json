@@ -1,0 +1,21 @@
+[{
+    "id": 1,
+    "name": "BIKE",
+    "img": "https://p7.hiclipart.com/preview/1002/365/180/ktm-390-series-motorcycle-ktm-rc-390-motorcycle-bike.jpg",
+    "model":"R15"
+  }, {
+    "id": 2,
+    "name": "CAR",
+    "img": "https://www.offshoreclippingpath.com/wp-content/uploads/2019/09/image-in-PNG-format-800x500.jpg",
+    "model":"x-corola"
+  }, {
+    "id": 3,
+    "name": "BUS",
+    "img": "https://p7.hiclipart.com/preview/868/626/327/tour-bus-service-setra-clip-art-bus.jpg",
+    "model":"Hounda"
+  }, {
+    "id": 4,
+    "name": "TRAIN",
+    "img": "https://toppng.com/uploads/preview/train-png-11554016026jm2xfsqypa.png",
+    "model":"Demo Train"
+  }]
